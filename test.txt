@@ -1,0 +1,7 @@
+lambda
+
+sort
+
+dict
+
+tuple
